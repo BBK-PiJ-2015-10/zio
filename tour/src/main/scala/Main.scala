@@ -5,7 +5,7 @@ import zio.random.nextInt
 import java.io.Serializable
 import scala.language.postfixOps
 
-// another
+// another line
 object Main extends App {
 
   import zio.console._
