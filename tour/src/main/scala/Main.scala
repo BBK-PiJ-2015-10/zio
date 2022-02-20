@@ -5,6 +5,7 @@ import zio.random.nextInt
 import java.io.Serializable
 import scala.language.postfixOps
 
+// another
 object Main extends App {
 
   import zio.console._
@@ -57,7 +58,7 @@ object Main extends App {
 
     numerGuess.exitCode
 
-    
+
     //cat exitCode
     //putStrLn("Welcome to your first ZIO app!").exitCode
 
